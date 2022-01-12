@@ -1,6 +1,6 @@
-## Wand
+## CleanDrone
 
-Wand is a smartpen.
+CleanDrone is a drone.
 
 ### Support or Contact
---> [email us](mailto:iodevs1@gmail.com) <--
+--> [email us](mailto:smthls00@gmail.com) <--
