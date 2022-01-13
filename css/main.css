@@ -44,6 +44,7 @@ body {
 
 .contact-thing {
     padding-top: 40px;
+    margin-bottom: 5vh;
 }
 
 .container-fluid {
@@ -167,7 +168,7 @@ body:before {
 }
 
 .defPaddingTop {
-    padding-top: 50px;
+    padding-top: 30px;
 }
 
 .defPaddingBottom {
@@ -211,6 +212,7 @@ body:before {
 }
 
 .preorder {
+    margin-left: 8vh;
     font-size: x-large !important;
 }
 
@@ -235,10 +237,14 @@ body:before {
     position: relative;
     top: 0;
     left: 0;
-    margin-top: 14vh;
+    margin-top: 20vh;
     max-width: 35%;
     margin-left: 15%;
     max-height: 70vh;
+}
+
+.button_preoder {
+    margin-left: 8vh;
 }
 
 .image2 {
@@ -255,6 +261,7 @@ body:before {
 .ahmed {
     font-family: Bebas Neue Light, monospace;
     font-size: 60px;
+    margin-left: 8vh;
 }
 
 @media screen and (max-width: 480px) {
