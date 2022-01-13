@@ -219,8 +219,7 @@ body:before {
     top: 120px;
     /*right: 70px;*/
     margin-top: 10vh;
-    margin-bottom: 20vh;
-    margin-left: 50vh;
+    margin-left: 5vh;
     margin-right: 10vh;
 }
 
@@ -236,6 +235,7 @@ body:before {
     position: relative;
     top: 0;
     left: 0;
+    margin-top: 14vh;
     max-width: 35%;
     margin-left: 15%;
     max-height: 70vh;
@@ -252,9 +252,9 @@ body:before {
     margin-right: 20vh;
 }
 
-.farrukh {
+.ahmed {
     font-family: Bebas Neue Light, monospace;
-    font-size: 56px;
+    font-size: 60px;
 }
 
 @media screen and (max-width: 480px) {
@@ -270,7 +270,7 @@ body:before {
         width: 95%;
     }
 
-    .farrukh {
+    .ahmed {
         color: transparent !important;
     }
 }
@@ -299,16 +299,16 @@ body:before {
     }
 
     .textParent {
-        margin-left: 40vh;
+        margin-left: 50vh;
     }
 
-    .farrukh {
+    .ahmed {
         color: transparent !important;
     }
 }
 
 @media screen and (max-width: 1160px) {
-    .farrukh {
+    .ahmed {
         color: transparent !important;
     }
 }
